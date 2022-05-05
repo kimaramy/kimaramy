@@ -1,7 +1,13 @@
-## Hi there 👋
-I'm Haram Kim, a Front-End developer 🧑‍💻 working since 2020 🚀 self-taught 💪
-
-## Skills 
+<div align=center>
+  
+  ### Hi, I'm Haram 👋
+  🌱 Front-End developter<br/>
+  🧑🏻‍💻 Working since 2020 💪 Self-taught
+  <br/>
+  
+  ![kimaramy's github stats](https://github-readme-stats.vercel.app/api?username=kimaramy&theme=graywhite&show_icons=true)[![kimaramy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimaramy&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimaramy)<br/>
+  
+ ### Skills
 <table><tr><td valign="top" width="auto">
   
 ### Skilled  
@@ -24,9 +30,18 @@ I'm Haram Kim, a Front-End developer 🧑‍💻 working since 2020 🚀 self-ta
 <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
 
-</table>  
+</table>
 
-<br/>  
+<!--   #### 🎪 Skilled
+  <hr />
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=REACT&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+ -->
+  </div>
 
 
 <!--
