@@ -1,7 +1,7 @@
 <div align=center>
   
   ### Hi, I'm Haram 👋
-  🌱 Front-End developter<br/>
+  🌱 Front-End developer<br/>
   🧑🏻‍💻 Working since 2020 💪 Self-taught
   <br/>
   
