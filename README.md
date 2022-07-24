@@ -1,29 +1,33 @@
-<div align=center>
+<div>
   
-  ### Hi, I'm Haram 👋
-  🌱 Front-End developer<br/>
-  🧑🏻‍💻 Working since 2020 💪 Self-taught
-  <br/>
+  # Hi, I'm Haram 👋
   
-  ![kimaramy's github stats](https://github-readme-stats.vercel.app/api?username=kimaramy&theme=graywhite&show_icons=true)[![kimaramy's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=kimaramy&show_icons=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/kimaramy)<br/>
+  <ul>
+    <li>🌱 디자인보다 개발을 잘하는 디자인과 학부생에서</li>
+    <li>💪🏻 더욱 개발 실력을 갈고 닦아 2020년부터 프론트엔드 개발자로 일하고 있습니다.</li>
+    <li>🧑🏻‍💻 현재 프롭테크 스타트업에서 빌딩/오피스 운영을 위한 상용 서비스 개발에 참여하고 있습니다.</li>
+  </ul>
   
- ### Skills
-<table><tr><td valign="top" width="auto">
-  
-### Skilled  
-<div align="center">
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" />  
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
-<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
+  ### Skills
+  <table>
+    <tr>
+      <td valign="top" width="auto">
+
+  ### Skilled  
+  <div align="center">
+  <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+  <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+  <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
+  <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+  <!--img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /-->  
+  <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+  </div>
 
 </td><td valign="top" width="auto">
 
 ### Experienced  
-<div align="center">  
+<div align="center">
+<img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 <img style="margin: 8px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
