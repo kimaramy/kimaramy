@@ -1,6 +1,6 @@
 <h1>Hi, I'm Haram Kim 👋</h1>
 
-  <p>I’ve been working as a front-end developer since 2020 and have developed web clients in SaaS projects and several business model prototyping projects. I studied Web, Mobile and Information Design at Hongik Univ. and Kaywon Univ.</p>
+  <p>I have been working on front-end development since 2020 and have developed web clients in DT projects and several business model prototyping projects. I studied Web, Mobile and Information Design at Hongik Univ. and Kaywon Univ.</p>
   
 <h2>Skills</h2>
 
@@ -8,17 +8,17 @@
     <tr>
       <th width="12.5%" align="left">Languages</th>
       <td>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black"/>
         <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
       </td>
     </tr>
     <tr>
       <th width="12.5%" align="left">Development</th>
       <td>
-        </--img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/-->
-        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
         <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white"/>
         <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/>
@@ -40,7 +40,7 @@
       <th width="12.5%" align="left">Package Build</th>
       <td>
         <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=Vite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=Webpack&logoColor=2B3A42"/>
       </td>
     </tr>
     <tr>
