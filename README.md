@@ -1,6 +1,6 @@
 <h1>Hi, I'm Haram Kim 👋</h1>
 
-  <p>I have been working on front-end development since 2020 and have developed web clients in DT projects and several business model prototyping projects. I studied Web, Mobile and Information Design at Hongik Univ. and Kaywon Univ.</p>
+  <p>I have been working on front-end development since 2020 and have built web clients in DX projects and several business model prototyping projects. I studied Web, Mobile and Information Design at Hongik Univ.</p>
   
 <h2>Skills</h2>
 
@@ -17,13 +17,13 @@
     <tr>
       <th width="12.5%" align="left">Development</th>
       <td>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/>
+<!--         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white"/> -->
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"/>
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white"/>
         <img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=ReactRouter&logoColor=white"/>
         <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=ReactQuery&logoColor=white"/>
         <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=ReactHookForm&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white"/>
+<!--         <img src="https://img.shields.io/badge/Nuxt.js-00DC82?style=for-the-badge&logo=Nuxt.js&logoColor=white"/> -->
         <img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/CSS&#8210;in&#8210;JS-DB7093?style=for-the-badge&logo=StyledComponents&logoColor=white"/>
         <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=TailwindCSS&logoColor=white"/>
